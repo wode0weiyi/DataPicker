@@ -3,7 +3,7 @@
 //  DatePicker
 //
 //  Created by apple-2 on 2017/12/25.
-//  Copyright © 2017年 yaoluxiang. All rights reserved.
+//  Copyright © 2017年 胡志辉. All rights reserved.
 
 
 import UIKit
